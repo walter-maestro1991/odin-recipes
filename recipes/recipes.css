@@ -1,0 +1,20 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.headers {
+    color:  rgb(238, 141, 29);
+    -webkit-text-stroke: 1px rgb(156,0,0);
+}
+
+#title {
+    background-color: rgb(156,0,0);
+    color: rgb(247,189,0);
+    font-weight: bold;
+}
+
+#wine {
+    font-weight: bold;
+    color: purple;
+    background: plum;
+}
